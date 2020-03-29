@@ -1,2 +1,2 @@
-print("ahlan")
-print("12")
+print("ahl2an")
+print("122")
